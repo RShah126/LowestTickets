@@ -1,5 +1,5 @@
 <h2>About</h2>
-  A website that allows you to display the past 5 movies information based on your movie search.
+  A website that allows you to display up to the past 5(if found) movies information based on your movie search.
 
 <h2>Inspiration</h2>
 I was bored, I hadn't done a project in a while so I decided to do this one, it sounded interesting.
