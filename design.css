@@ -1,0 +1,44 @@
+
+
+body{
+    background-color:green;
+}
+
+#getmovieb {
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+
+}
+
+
+#getmovieb{
+    position: relative;
+    left: 255px;
+}
+
+#btnb {
+    width: 350px;
+    height: 350px;
+    background-color: gray;
+    position: absolute;
+    bottom: 390px;
+    right: 785px;
+}
+
+#MovieName{
+    position: absolute;
+    right: 850px;
+    bottom: 600px;
+
+}
+
+#getapitext{
+    position: absolute;
+    top: 120px;
+    right:  1230px;
+    bottom: 3px;
+    background-color: white;
+    width: 540px;
+    height: 500px; 
+}
